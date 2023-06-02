@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.github.deeround.dynamic.datasource.spring.boot.autoconfigure.DynamicDataSourceAutoConfiguration
